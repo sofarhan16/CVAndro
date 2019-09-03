@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_item_card">20.5dp</dimen>
+    <dimen name="activity_vertical_item_card">29.74dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="layout_height_card">91.5dp</dimen>
+    <dimen name="layout_width_card">309dp</dimen>
+    <dimen name="activity_vertical_margin_card">45dp</dimen>
+</resources>
